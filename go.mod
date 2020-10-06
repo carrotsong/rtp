@@ -1,5 +1,5 @@
-module github.com/pion/rtp
+module github.com/carrotsong/rtp
 
 go 1.13
 
-require github.com/pion/randutil v0.1.0
+require github.com/carrotsong/randutil v0.1.0
